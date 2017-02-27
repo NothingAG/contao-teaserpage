@@ -1,3 +1,6 @@
+# [UNMAINTAINED]
+This project is not maintained anymore.
+
 # CONTAO EXTENSION: TEASER PAGE
 Offers a backend module in Contao to create teasers consisting of a description and an image link to the target page. The teaser overview page can then be inserted at any place as a content element.
 
